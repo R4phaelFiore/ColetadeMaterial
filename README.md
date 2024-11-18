@@ -10,3 +10,4 @@
 
 - Não tem dependencias.
 - OpenSource.
+- Version 1.0.0
